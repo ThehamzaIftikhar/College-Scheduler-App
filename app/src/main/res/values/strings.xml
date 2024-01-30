@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CollegeSchedulerApp</string>
+    <string name="test">Hello</string>
+
 </resources>
